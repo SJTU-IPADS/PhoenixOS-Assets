@@ -2,7 +2,7 @@
 
 This repo contains assets for supporting building and using <a href="https://github.com/SJTU-IPADS/PhoenixOS">PhoenixOS</a> (PhOS).
 
-<b>[Background]</b> As PhOS targts at providing seamless experience to our users, we want one could build and run PhOS on native images provided by vendors. We exported assets which are replied by PhOS yet with large size in this repo, so that PhOS's build system can download them from here before start anything.
+<b>[Background]</b> As PhOS targts at providing seamless experience to our users, we want one could build and run PhOS on native images provided by vendors. We exported assets which are relied by PhOS yet with large size in this repo, so that PhOS's build system can download them from here before start everything.
 
 <b>[Contents]</b> These assets are:
 
